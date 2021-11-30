@@ -1,2 +1,2 @@
 # app1
-Learning propose
+Learning purpose
